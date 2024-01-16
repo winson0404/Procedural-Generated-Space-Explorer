@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/bullet.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/cursor.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/details.spritefont</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/EnemyShip.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/mine.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/missile_harpoon.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/planet_01.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/planet_02.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/planet_03.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/planet_04.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/planet_05.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/planet_06.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/planet_background.jpg</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/player_ship.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/red_glow.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/shrapnel_glow.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/skull.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/smoke01.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/smoke02.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/smoke03.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/smoke04.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/space_background.jpg</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/spaceship.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_blue01.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_blue02.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_blue03.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_blue04.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_highlight.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_menu.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_orange01.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_orange02.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_orange03.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_orange04.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_red01.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_red02.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_red03.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_red04.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_white01.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_white02.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_white03.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_white04.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_yellow01.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_yellow02.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_yellow03.png</File>
+    <File>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/star_yellow04.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

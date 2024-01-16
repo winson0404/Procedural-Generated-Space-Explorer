@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/details.spritefont</SourceFile>
+  <SourceTime>2020-08-11T00:17:28+08:00</SourceTime>
+  <DestFile>H:/My Drive/University files/Game Algorithm/Project/TwoMansSky/procedural-generation-space-explorer/main/TwoManSky/Content/bin/DesktopGL/Content/details.xnb</DestFile>
+  <DestTime>2022-04-28T15:38:30.581+08:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-11T00:17:54+08:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-11T00:17:54+08:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
